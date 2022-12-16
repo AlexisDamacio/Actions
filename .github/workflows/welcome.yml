@@ -1,5 +1,5 @@
-name: Post welcome commment 
+name: Post welcome comment 
 on: 
-  Pull_request: 
-    types: []
+  pull_request: 
+    types: [opened]
     
