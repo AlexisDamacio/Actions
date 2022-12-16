@@ -1,0 +1,5 @@
+name: Post welcome commment 
+on: 
+  Pull_request: 
+    types: []
+    
